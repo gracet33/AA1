@@ -1,7 +1,7 @@
 <h1>Project Overview</h1>
 Enhancing Customer Churn Prediction in E-commerce
 
-**Objective:**
+<h2>**Objective:**</h2>
 1. Gain comprehensive insights into customer behavior.
 2. Develop and train three models for predictive analysis and conduct a comparative analysis to determine the most effective model.
 3. Using data-driven approach to optimize decision-making processes within the business.
