@@ -23,5 +23,5 @@ Role: Advanced data exploration, imputation, predictive modeling, and model comp
 Functions: Importing, editing, and exploring variables; imputing missing values; analyzing variable associations; and training predictive models.  
 Significance: Uncovering in-depth insights into the dataset, addressing missing values, and training models for customer churn prediction.  
 
-<h3>Abstract:</h3>
+<h2>Abstract:</h2>
 The case study demonstrates a comprehensive approach to understanding customer behavior in e-commerce through data exploration, modification, and predictive modeling. It identifies challenges in feature selection and recommends iterative refinement and clustering techniques for improved model performance. The Gradient Boosting model is identified as the preferred model due to its lower misclassification rates and squared errors on both training and validation sets. Future work includes further exploration of customer behavior analytics and fine-tuning hyperparameters for enhanced model accuracy.
