@@ -1,4 +1,4 @@
-#Project Overview
+##Project Overview
 Enhancing Customer Churn Prediction in E-commerce
 
 Objective:
@@ -6,7 +6,7 @@ Objective:
 2. Develop and train three models for predictive analysis and conduct a comparative analysis to determine the most effective model.
 3. Using data-driven approach to optimize decision-making processes within the business.
 
-#Tools Utilized:
+##Tools Utilized:
 
 #Talend Data Prep:
 Role: Initial data exploration and formatting.
