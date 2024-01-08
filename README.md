@@ -2,8 +2,10 @@
 Enhancing Customer Churn Prediction in E-commerce
 
 <h2>Objective:</h2>
-1. Gain comprehensive insights into customer behavior.                    
-2. Develop and train three models for predictive analysis and conduct a comparative analysis to determine the most effective model.         
+1. Gain comprehensive insights into customer behavior.
+<br>
+2. Develop and train three models for predictive analysis and conduct a comparative analysis to determine the most effective model.      
+<br>
 3. Using data-driven approach to optimize decision-making processes within the business.  
 
 <h2>Tools Utilized:</h2>
